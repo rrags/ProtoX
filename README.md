@@ -1,4 +1,4 @@
-# ProtoX_NeurIPS
+# ProtoX
 
 Usage:  
 $cd ~  

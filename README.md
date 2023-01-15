@@ -1,9 +1,9 @@
 # ProtoX_NeurIPS
 
 Usage:  
-$cd ~
-$virtualenv virtenvs/protox
-$source virtenvs/protox/bin/activate
+$cd ~  
+$virtualenv virtenvs/protox  
+$source virtenvs/protox/bin/activate  
 $cd Mario  
 $pip install -r requirements.txt  
 $jupyter notebook  
